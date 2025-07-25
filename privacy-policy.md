@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hello1! Welcome to the Quinoa Games Privacy Policy. This Privacy Policy describes the ways we collect personal data about you and why we do so, how we use your personal data, and the choices you have about your personal data.
+Hello! Welcome to the Quinoa Games Privacy Policy. This Privacy Policy describes the ways we collect personal data about you and why we do so, how we use your personal data, and the choices you have about your personal data.
 
 This Privacy Policy applies to all of our games, whether played on mobile devices, PCs or on other platforms such as Facebook. It also applies to our Marketing and Advertising activities on all platforms and other services that we may provide to you from time to time. In this Privacy Policy we refer to our games, websites, marketing and advertising activities and other services collectively as our "Services".
 
